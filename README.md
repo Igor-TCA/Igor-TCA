@@ -1,16 +1,15 @@
-## Hi there 👋
+##  Objetivos Futuros
 
-<!--
-**Igor-TCA/Igor-TCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid
+graph LR
+    A[<b>Analista de Dados</b><br/>Machine Learning] --> B[<b>MBA & Pós-Graduação</b><br/>Especialização em Dados]
+    B --> C[<b>Senior Data Analyst</b><br/>Liderança de Projetos]
+    C --> D[<b>Chief Data Officer</b><br/>Gestão Estratégica]
+    
+    style A fill:#657947,stroke:#526239,stroke-width:2px,color:#fff
+    style B fill:#7a9157,stroke:#526239,stroke-width:2px,color:#fff
+    style C fill:#90ab67,stroke:#526239,stroke-width:2px,color:#fff
+    style D fill:#a9c779,stroke:#526239,stroke-width:2px,color:#fff
+```
