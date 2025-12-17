@@ -1,6 +1,6 @@
 <div align="center">
 
-# Opa, seja bem vinde ao meu perfil!!
+# Olá, seja bem vinde ao meu perfil!!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=657947&center=true&vCenter=true&width=600&lines=Engenharia+%7C+UNESP+Guaratingue%C3%A1;Data+Driven+%7C+Analista+de+Dados;Excel+%7C+Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" />
 
